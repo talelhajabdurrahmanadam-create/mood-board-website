@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+     background: #a88f8f;
+}
+.head{
+    font-size: 100%;
+    color: rgb(21, 95, 95);
+    text-align: center;
+}
+
+h1{
+    margin-top:5% ;
+}
+
+.mood-btn{
+    border-radius:20px ;
+    color:rgb(21, 95, 95);
+    margin: 3%;
+    font-size: 1rem;
+    padding: 2%;
+   
+}
+.mood-btn:hover{
+opacity:0.8;
+}
+.MESSAGE-BOX{
+    font-size: 2rem;
+    color: rgb(21, 95, 95);
+    
+}
